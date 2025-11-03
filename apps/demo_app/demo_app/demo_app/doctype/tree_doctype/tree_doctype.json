@@ -1,0 +1,97 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-07-22 18:49:28.224626",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_agux",
+  "lft",
+  "rgt",
+  "is_group",
+  "old_parent",
+  "parent_tree_doctype",
+  "yyyy",
+  "full_name"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_agux",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "lft",
+   "fieldtype": "Int",
+   "hidden": 1,
+   "label": "Left",
+   "no_copy": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "rgt",
+   "fieldtype": "Int",
+   "hidden": 1,
+   "label": "Right",
+   "no_copy": 1,
+   "read_only": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "is_group",
+   "fieldtype": "Check",
+   "label": "Is Group"
+  },
+  {
+   "fieldname": "old_parent",
+   "fieldtype": "Link",
+   "label": "Old Parent",
+   "options": "Tree Doctype"
+  },
+  {
+   "fieldname": "parent_tree_doctype",
+   "fieldtype": "Link",
+   "ignore_user_permissions": 1,
+   "label": "Parent Tree Doctype",
+   "options": "Tree Doctype"
+  },
+  {
+   "fieldname": "yyyy",
+   "fieldtype": "Int",
+   "label": "YYYY"
+  },
+  {
+   "fieldname": "full_name",
+   "fieldtype": "Data",
+   "label": "Full Name ",
+   "unique": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "is_tree": 1,
+ "links": [],
+ "modified": "2025-07-22 19:06:30.463980",
+ "modified_by": "Administrator",
+ "module": "Demo App",
+ "name": "Tree Doctype",
+ "nsm_parent_field": "parent_tree_doctype",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

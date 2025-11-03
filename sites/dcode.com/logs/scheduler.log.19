@@ -1,4 +1,4 @@
-2025-11-01 14:21:53,473 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 14:59:00,279 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -33,7 +33,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:22:53,757 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:00:00,314 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -68,7 +68,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:23:53,960 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:01:00,589 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -103,7 +103,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:24:54,032 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:02:00,741 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -138,7 +138,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:25:54,182 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:03:00,929 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -173,7 +173,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:26:54,362 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:04:01,019 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -208,7 +208,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:27:54,514 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:05:01,362 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -243,7 +243,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:28:54,728 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:06:01,581 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -278,7 +278,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:29:54,935 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:07:01,706 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -313,7 +313,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:30:55,130 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:08:01,849 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -348,7 +348,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:31:55,456 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:09:02,088 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -383,7 +383,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:32:55,556 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:10:02,236 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -418,7 +418,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:33:55,718 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:11:02,467 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -453,7 +453,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:34:56,025 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:12:02,694 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -488,7 +488,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:35:56,172 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:13:02,966 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -523,7 +523,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:36:56,401 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:14:03,175 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -558,7 +558,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:37:56,578 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:15:03,325 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -593,7 +593,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:38:56,712 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:16:03,504 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -628,7 +628,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:39:56,814 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:17:03,729 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -663,7 +663,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:40:56,998 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:18:03,801 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -698,7 +698,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:41:57,228 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:19:04,118 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -733,7 +733,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:42:57,573 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:20:04,325 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -768,7 +768,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:43:57,683 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:21:04,385 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -803,7 +803,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:44:57,877 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:22:04,659 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -838,7 +838,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:45:57,906 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:23:04,750 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -873,7 +873,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:46:58,145 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:24:04,993 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -908,7 +908,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:47:58,205 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:25:05,211 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -943,7 +943,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:48:58,331 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:26:05,372 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -978,7 +978,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:49:58,550 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:27:05,480 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1013,7 +1013,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:50:58,754 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:28:05,704 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1048,7 +1048,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:51:58,880 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:29:05,915 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1083,7 +1083,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:52:59,237 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:30:06,022 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1118,7 +1118,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:53:59,417 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:31:06,280 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1153,7 +1153,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:54:59,504 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:32:06,338 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1188,7 +1188,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:55:59,708 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:33:06,644 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1223,7 +1223,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:56:59,976 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:34:06,760 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1258,7 +1258,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_5bfad20df23db8f1'@'localhost' (using password: YES)")
-2025-11-01 14:58:00,081 ERROR scheduler Exception in Enqueue Events for Site dcode.com
+2025-11-01 15:35:07,027 ERROR scheduler Exception in Enqueue Events for Site dcode.com
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():

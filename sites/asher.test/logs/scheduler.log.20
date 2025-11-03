@@ -1,4 +1,4 @@
-2025-11-01 14:05:50,599 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:42:57,574 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -33,7 +33,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:06:50,719 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:43:57,684 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -68,7 +68,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:07:50,994 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:44:57,782 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -103,7 +103,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:08:51,045 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:45:57,897 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -138,7 +138,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:09:51,249 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:46:58,050 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -173,7 +173,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:10:51,524 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:47:58,200 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -208,7 +208,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:11:51,627 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:48:58,327 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -243,7 +243,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:12:51,728 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:49:58,559 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -278,7 +278,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:13:52,073 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:50:58,749 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -313,7 +313,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:14:52,105 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:51:58,892 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -348,7 +348,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:15:52,231 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:52:59,238 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -383,7 +383,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:16:52,391 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:53:59,305 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -418,7 +418,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:17:52,611 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:54:59,509 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -453,7 +453,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:18:52,748 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:55:59,706 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -488,7 +488,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:19:52,923 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:56:59,979 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -523,7 +523,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:20:53,366 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:58:00,085 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -558,7 +558,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:21:53,470 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 14:59:00,283 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -593,7 +593,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:22:53,662 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:00:00,417 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -628,7 +628,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:23:53,962 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:01:00,590 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -663,7 +663,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:24:54,027 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:02:00,739 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -698,7 +698,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:25:54,301 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:03:00,932 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -733,7 +733,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:26:54,367 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:04:01,022 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -768,7 +768,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:27:54,500 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:05:01,358 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -803,7 +803,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:28:54,863 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:06:01,584 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -838,7 +838,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:29:55,055 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:07:01,691 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -873,7 +873,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:30:55,233 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:08:01,843 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -908,7 +908,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:31:55,454 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:09:02,083 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -943,7 +943,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:32:55,553 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:10:02,354 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -978,7 +978,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:33:55,708 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:11:02,582 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1013,7 +1013,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:34:56,026 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:12:02,689 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1048,7 +1048,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:35:56,057 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:13:02,856 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1083,7 +1083,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:36:56,278 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:14:03,178 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1118,7 +1118,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:37:56,577 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:15:03,207 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1153,7 +1153,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:38:56,713 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:16:03,407 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1188,7 +1188,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:39:56,818 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:17:03,728 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1223,7 +1223,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:40:57,119 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:18:03,797 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1258,7 +1258,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_400011ad0af34c4e'@'localhost' (using password: YES)")
-2025-11-01 14:41:57,345 ERROR scheduler Exception in Enqueue Events for Site asher.test
+2025-11-01 15:19:04,121 ERROR scheduler Exception in Enqueue Events for Site asher.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():

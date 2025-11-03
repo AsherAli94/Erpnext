@@ -1,4 +1,4 @@
-2025-11-01 14:44:57,776 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:22:04,562 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -33,7 +33,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:45:57,887 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:23:04,751 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -68,7 +68,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:46:58,055 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:24:04,992 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -103,7 +103,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:47:58,191 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:25:05,210 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -138,7 +138,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:48:58,329 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:26:05,373 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -173,7 +173,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:49:58,564 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:27:05,577 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -208,7 +208,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:50:58,744 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:28:05,707 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -243,7 +243,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:51:58,884 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:29:05,800 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -278,7 +278,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:52:59,240 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:30:06,027 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -313,7 +313,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:53:59,310 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:31:06,278 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -348,7 +348,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:54:59,514 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:32:06,343 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -383,7 +383,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:55:59,703 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:33:06,642 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -418,7 +418,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:56:59,977 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:34:06,872 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -453,7 +453,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:58:00,076 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:35:07,023 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -488,7 +488,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 14:59:00,282 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:36:07,141 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -523,7 +523,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:00:00,317 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:37:07,323 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -558,7 +558,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:01:00,591 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:38:07,619 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -593,7 +593,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:02:00,740 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:39:07,712 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -628,7 +628,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:03:00,821 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:40:07,839 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -663,7 +663,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:04:01,024 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:41:08,044 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -698,7 +698,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:05:01,360 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:42:08,266 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -733,7 +733,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:06:01,583 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:43:08,524 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -768,7 +768,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:07:01,696 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:44:08,666 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -803,7 +803,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:08:01,967 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:45:08,885 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -838,7 +838,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:09:02,079 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:46:09,038 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -873,7 +873,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:10:02,355 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:47:09,145 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -908,7 +908,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:11:02,583 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:48:09,417 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -943,7 +943,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:12:02,703 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:49:09,551 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -978,7 +978,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:13:02,860 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:50:09,639 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1013,7 +1013,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:14:03,174 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:51:09,867 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1048,7 +1048,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:15:03,326 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:52:10,140 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1083,7 +1083,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:16:03,506 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:53:10,243 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1118,7 +1118,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:17:03,617 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:54:10,556 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1153,7 +1153,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:18:03,792 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:55:10,662 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1188,7 +1188,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:19:04,018 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:56:10,870 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1223,7 +1223,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:20:04,329 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:57:11,167 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
@@ -1258,7 +1258,7 @@ Traceback (most recent call last):
   File "/home/asher/frappe_dev/env/lib/python3.10/site-packages/pymysql/err.py", line 150, in raise_mysql_exception
     raise errorclass(errno, errval)
 pymysql.err.OperationalError: (1045, "Access denied for user '_cae0e4088e4c8684'@'localhost' (using password: YES)")
-2025-11-01 15:21:04,386 ERROR scheduler Exception in Enqueue Events for Site library.test
+2025-11-01 15:58:11,231 ERROR scheduler Exception in Enqueue Events for Site library.test
 Traceback (most recent call last):
   File "/home/asher/frappe_dev/apps/frappe/frappe/utils/scheduler.py", line 99, in enqueue_events_for_site
     if is_scheduler_inactive():
