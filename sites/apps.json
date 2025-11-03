@@ -1,0 +1,51 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.73.0"
+    },
+    "library_management": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "dc1be45b42b7aaa48c3e7e323be3962d1f6a7d79",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "196c3fc6564e4be93a9afee6ba3d114d22e28c1a",
+            "branch": "version-15"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "15.70.2"
+    },
+    "demo_app": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "4db3a19382c14c2bdbeaccec8971332f00b87696",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    },
+    "whatsapp_integration": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "58c35e9515a13a588541ed0424e084c27851f25f",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    }
+}
